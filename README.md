@@ -27,17 +27,19 @@ If you do not already have a Replit account, create one at https://replit.com/te
 
 **Start a New Repl:**
 
-Go to your Replit dashboard and click on the "+ New Repl" button.
-Choose "Import from GitHub".
-Paste the URL of your GitHub repository: https://github.com/PavanTeja-17/-PavanTeja-_Challenge-.git
-Click on "Import from GitHub" to create the Repl.
-Configuring the Repl
-Once your Repl is created, it should automatically detect Python as the language if your repository contains Python files. If not, you can manually set the language to Python in the Repl settings.
-**Running the Project on Replit**
-Navigate to the Files Panel:
-Locate the Python script that you wish to run.
-Run the Script:
+1. Go to your Replit dashboard and click on the "+ New Repl" button.
+2. Choose "Import from GitHub".
+3. Paste the URL of your GitHub repository: https://github.com/PavanTeja-17/-PavanTeja-_Challenge-.git
+4. Click on "Import from GitHub" to create the Repl.
 
-Open the file.
-Configure Run command:python challenge2.py
-Click the "Run" button at the top of the editor to execute the script.
+**Configuring the Repl**
+Once your Repl is created, it should automatically detect Python as the language if your repository contains Python files. If not, you can manually set the language to Python in the Repl settings.
+
+**Running the Project on Replit**
+
+1. Navigate to the Files Panel:
+2. Locate the Python script that you wish to run.
+3. Run the Script:
+   a. Open the file.
+   b. Configure Run command:python challenge2.py
+   c. Click the "Run" button at the top of the editor to execute the script.
